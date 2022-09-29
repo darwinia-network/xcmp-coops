@@ -3,7 +3,7 @@
 ### Cooperation Process
 **Contract our developers or fork this repository and do the following things:**
 1. Edit the [`xcmp-coops.toml`](xcmp-coops.toml)
-2. Find your cooperation target, Darwinia or Crab Network
+2. Find your cooperation target, Darwinia or Crab network
 3. Add an new item follow the existing items format
 4. Fill the accept/batch/request call data
 5. Make a pull request
