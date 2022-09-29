@@ -1,0 +1,14 @@
+# Verify the Polkadot call at           https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Frpc.polkadot.io#/extrinsics/decode
+# Verify the Darwinia Parachain call at https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fparachain-rpc.darwinia.network#/extrinsics/decode
+[darwinia]
+
+# Verify the Kusama call at         https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fkusama-rpc.polkadot.io#/extrinsics/decode
+# Verify the Crab Parachain call at https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fcrab-parachain-rpc.darwinia.network%2F#/extrinsics/decode
+[crab]
+	[crab.shiden]
+	accept         = ""
+	accept-result  = ""
+	batch          = ""
+	batch-result   = ""
+	request        = "0x0d000101000214000400000000070010a5d4e81300000000070010a5d4e80006000700f2052a01383c00d7070000e803000000900100140d010004000100e520"
+	request-result = ""
