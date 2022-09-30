@@ -8,7 +8,7 @@
 4. Fill the accept/batch/request call data
 5. Make a pull request
 6. Once the pull request gets more than one approvals, the on-chain governance will be started
-7. Once the channel(s) was(were) established, update the result, a Subscan or Polkadot Apps URI
+7. Once the channel(s) was(were) established, update the result(s) with the Subscan or Polkadot Apps URI(s)
 
 **Some formatting issues:**
 1. If the field you don't use, just leave with an empty string `""`
