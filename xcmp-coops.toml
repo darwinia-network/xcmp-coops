@@ -45,6 +45,14 @@
 	request        = ""
 	request-result = "https://crab-parachain.subscan.io/extrinsic/310780-2"
 
+	[crab.parallel]
+	accept         = ""
+	accept-result  = ""
+	batch          = "0x1000080d000101000214000400000000070010a5d4e81300000000070010a5d4e80006000700f2052a01383c0025080000e803000000900100140d010004000100e5200d000101000214000400000000070010a5d4e81300000000070010a5d4e80006000700f2052a01183c0125080000140d010004000100e520"
+	batch-result   = "https://crab.subsquare.io/council/motion/11935733_0x01223a801cc1c24ccaff4ef80148f8bbd10019315250ac5796ece1ce3d31af9b"
+	request        = ""
+	request-result = ""
+
 	[crab.shiden]
 	accept         = ""
 	accept-result  = ""
