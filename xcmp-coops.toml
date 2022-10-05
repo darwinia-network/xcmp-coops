@@ -13,6 +13,14 @@
 	request        = ""
 	request-result = ""
 
+	[crab.crust]
+	accept         = ""
+	accept-result  = ""
+	batch          = "0x1000080d000101000210000400000000070010a5d4e81300000000070010a5d4e80006000700f2052a01383c00dc070000e8030000009001000d010004000100e5200d000101000210000400000000070010a5d4e81300000000070010a5d4e80006000700f2052a01183c01dc0700000d010004000100e520"
+	batch-result   = "https://crab.subsquare.io/council/motion/11825130_0x8fc567a3f9939bcedf8cf609bea0c8095cd48074c20fda308cde70aa93c0e9b8"
+	request        = ""
+	request-result = ""
+
 	[crab.khala]
 	accept         = ""
 	accept-result  = ""
