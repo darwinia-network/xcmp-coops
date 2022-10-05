@@ -5,6 +5,14 @@
 # Verify the Kusama call at         https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fkusama-rpc.polkadot.io#/extrinsics/decode
 # Verify the Crab Parachain call at https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fcrab-parachain-rpc.darwinia.network%2F#/extrinsics/decode
 [crab]
+	[crab.karura]
+	accept         = ""
+	accept-result  = "https://crab-parachain.subscan.io/extrinsic/288665-2"
+	batch          = ""
+	batch-result   = ""
+	request        = ""
+	request-result = "https://crab-parachain.subscan.io/extrinsic/288681-2"
+
 	[crab.shiden]
 	accept         = ""
 	accept-result  = ""
