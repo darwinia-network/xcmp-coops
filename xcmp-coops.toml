@@ -1,6 +1,13 @@
 # Verify the Polkadot call at           https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Frpc.polkadot.io#/extrinsics/decode
 # Verify the Darwinia Parachain call at https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fparachain-rpc.darwinia.network#/extrinsics/decode
 [darwinia]
+	[darwinia.moonbeam]
+	accept         = "0x0d0001010002140004000000000700e40b540213000000000700e40b540200060002286bee183c01d4070000140d010004000100f91f"
+	accept-result  = ""
+	batch          = ""
+	batch-result   = ""
+	request        = ""
+	request-result = ""
 
 # Verify the Kusama call at         https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fkusama-rpc.polkadot.io#/extrinsics/decode
 # Verify the Crab Parachain call at https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fcrab-parachain-rpc.darwinia.network%2F#/extrinsics/decode
