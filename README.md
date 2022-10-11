@@ -1,4 +1,5 @@
 ## Darwinia/Crab Network XCMP Cooperations
+> Check [`parachain-info.toml`](parachain-info.toml) for more information about the Darwinia parachains.
 
 ### Cooperation Process
 **Contract our developers or fork this repository and do the following things:**

@@ -1,0 +1,19 @@
+[darwinia]
+	[darwinia.parachain-id]
+	parachain-id = "2046"
+	[darwinia.asset]
+	decimals            = "18"
+	existential-deposit = "0"
+	multiloaction       = "X2(Parachain(2046), PalletInstance(5))"
+	name                = "Darwinia Parachain Token"
+	symbol              = "RING"
+
+[crab]
+	[crab.parachain-id]
+	parachain-id = "2105"
+	[crab.asset]
+	decimals            = "18"
+	existential-deposit = "0"
+	multiloaction       = "X2(Parachain(2105), PalletInstance(5))"
+	name                = "Crab Parachain Token"
+	symbol              = "CRAB"
