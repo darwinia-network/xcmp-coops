@@ -3,7 +3,7 @@
 [darwinia]
 	[darwinia.moonbeam]
 	accept         = "0x0d0001010002140004000000000700e40b540213000000000700e40b540200060002286bee183c01d4070000140d010004000100f91f"
-	accept-result  = ""
+	accept-result  = "https://darwinia-parachain.subscan.io/extrinsic/204519-2"
 	batch          = ""
 	batch-result   = ""
 	request        = ""
