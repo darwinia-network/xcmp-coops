@@ -25,6 +25,14 @@
 	request        = ""
 	request-result = ""
 
+	[darwinia.bifrost]
+	accept         = ""
+	accept-result  = ""
+	batch          = "0x1000080d0001010002140004000000000700e40b540213000000000700e40b540200060002286bee383c00ee070000e803000000900100140d010004000100f91f0d0001010002140004000000000700e40b540213000000000700e40b540200060002286bee183c01ee070000140d010004000100f91f"
+	batch-result   = ""
+	request        = ""
+	request-result = ""
+
 # Verify the Kusama call at         https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fkusama-rpc.polkadot.io#/extrinsics/decode
 # Verify the Crab Parachain call at https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fcrab-parachain-rpc.darwinia.network%2F#/extrinsics/decode
 [crab]
