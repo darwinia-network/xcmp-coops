@@ -9,6 +9,15 @@
 	request        = ""
 	request-result = ""
 
+	[darwinia.parallel]
+	accept         = ""
+	accept-result  = ""
+	batch          = ""
+	batch-result   = "https://darwinia-parachain.subscan.io/extrinsic/80441-2"
+	request        = ""
+	request-result = ""
+
+
 # Verify the Kusama call at         https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fkusama-rpc.polkadot.io#/extrinsics/decode
 # Verify the Crab Parachain call at https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fcrab-parachain-rpc.darwinia.network%2F#/extrinsics/decode
 [crab]
