@@ -1,6 +1,14 @@
 # Verify the Polkadot call at           https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Frpc.polkadot.io#/extrinsics/decode
 # Verify the Darwinia Parachain call at https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fparachain-rpc.darwinia.network#/extrinsics/decode
 [darwinia]
+	[darwinia.bifrost]
+	accept         = ""
+	accept-result  = ""
+	batch          = "0x1000080d0001010002140004000000000700e40b540213000000000700e40b540200060002286bee383c00ee070000e803000000900100140d010004000100f91f0d0001010002140004000000000700e40b540213000000000700e40b540200060002286bee183c01ee070000140d010004000100f91f"
+	batch-result   = ""
+	request        = ""
+	request-result = ""
+
 	[darwinia.moonbeam]
 	accept         = "0x0d0001010002140004000000000700e40b540213000000000700e40b540200060002286bee183c01d4070000140d010004000100f91f"
 	accept-result  = "https://darwinia-parachain.subscan.io/extrinsic/204519-2"
@@ -22,14 +30,6 @@
 	accept-result  = ""
 	batch          = "0x1000080d0001010002140004000000000700e40b540213000000000700e40b540200060002286bee383c00f3070000e803000000900100140d010004000100f91f0d0001010002140004000000000700e40b540213000000000700e40b540200060002286bee183c01f3070000140d010004000100f91f"
 	batch-result   = "https://darwinia-parachain.subscan.io/extrinsic/0x288a98923cf0dda292e4e8e9da1c9beedce8cf6b07e01aa320643062eb346198"
-	request        = ""
-	request-result = ""
-
-	[darwinia.bifrost]
-	accept         = ""
-	accept-result  = ""
-	batch          = "0x1000080d0001010002140004000000000700e40b540213000000000700e40b540200060002286bee383c00ee070000e803000000900100140d010004000100f91f0d0001010002140004000000000700e40b540213000000000700e40b540200060002286bee183c01ee070000140d010004000100f91f"
-	batch-result   = ""
 	request        = ""
 	request-result = ""
 
