@@ -1,6 +1,9 @@
 [darwinia]
-	[darwinia.parachain-id]
-	parachain-id = "2046"
+parachain-id = "2046"
+	[darwinia.soverign]
+	public-key-polkadot = "0x70617261fe070000000000000000000000000000000000000000000000000000"
+	public-key-sibling  = "0x7369626cfe070000000000000000000000000000000000000000000000000000"
+	ss58-polkadot       = "13YMK2ei1mSnnHfZRqweboFRPTzvQEo6xdjhdycF496KBnPg"
 	[darwinia.asset]
 	decimals            = "18"
 	existential-deposit = "0"
@@ -9,8 +12,11 @@
 	symbol              = "RING"
 
 [crab]
-	[crab.parachain-id]
-	parachain-id = "2105"
+parachain-id = "2105"
+	[crab.soverign]
+	public-key-kusama  = "0x7061726139080000000000000000000000000000000000000000000000000000"
+	public-key-sibling = "0x7369626c39080000000000000000000000000000000000000000000000000000"
+	ss58-kusama        = "F7fq1iqJw2EHzYFBtC1ZP9p5HvT31Jn1qGCAydeQEhtfZVA"
 	[crab.asset]
 	decimals            = "18"
 	existential-deposit = "0"
