@@ -13,7 +13,8 @@
 8. Once all the things above are finished, the pull request will be merged
 
 **Some formatting issues:**
-1. If the field you don't use, just leave with an empty string `""`
-2. Convert your network's name to lowercase, e.g. `"Foo" -> "foo"`
-3. Convert your network's name style to kebab-case, e.g. `"FooBar", "fooBar", "FOO_BAR", "foo_bar" -> "foo-bar"`
-4. Replace the space in your network name with a dash, e.g. `"foo bar" -> "foo-bar"`
+1. Sort the network list by alphabetic order
+2. If the field you don't use, just leave with an empty string `""`
+3. Convert your network's name to lowercase, e.g. `"Foo" -> "foo"`
+4. Convert your network's name style to kebab-case, e.g. `"FooBar", "fooBar", "FOO_BAR", "foo_bar" -> "foo-bar"`
+5. Replace the space in your network name with a dash, e.g. `"foo bar" -> "foo-bar"`
