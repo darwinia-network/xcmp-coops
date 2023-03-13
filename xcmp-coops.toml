@@ -109,7 +109,7 @@
 	request-result = ""
 
 	[crab.shiden]
-	accept         = ""
+	accept         = "0x21000101000214000400000000070010a5d4e81300000000070010a5d4e800060002286bee183c01d7070000140d010004000100e520"
 	accept-result  = ""
 	batch          = ""
 	batch-result   = ""
