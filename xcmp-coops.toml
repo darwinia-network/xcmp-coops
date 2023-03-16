@@ -114,4 +114,4 @@
 	batch          = ""
 	batch-result   = ""
 	request        = "0x0d000101000214000400000000070010a5d4e81300000000070010a5d4e80006000700f2052a01383c00d7070000e803000000900100140d010004000100e520"
-	request-result = ""
+	request-result = "https://kusama.subscan.io/extrinsic/15868811-1?event=15868811-42"
