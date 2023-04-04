@@ -115,3 +115,14 @@
 	batch-result   = ""
 	request        = "0x0d000101000214000400000000070010a5d4e81300000000070010a5d4e80006000700f2052a01383c00d7070000e803000000900100140d010004000100e520"
 	request-result = "on darwinia-1.0"
+
+# Verify the Rococo call at             https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Frococo-rpc.polkadot.io#/extrinsics/decode
+# Verify the Pangolin Parachain call at https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fpangolin-rpc.darwinia.network#/extrinsics/decode
+[rococo]
+	[rococo.rocstar]
+	accept         = ""
+	accept-result  = ""
+	batch          = ""
+	batch-result   = ""
+	request        = "0x21000101000214000400000000070010a5d4e81300000000070010a5d4e800060002286bee383c00d6070000e803000000900100140d010004000100e520"
+	request-result = "https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fpangolin-rpc.darwinia.network#/explorer/query/0xc4c94f9cdf9d98c62e21b21c18d23e197a505a8f430e9c7cb209554648764315"
