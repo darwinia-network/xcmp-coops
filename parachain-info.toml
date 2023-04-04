@@ -23,3 +23,16 @@ parachain-id = "2105"
 	multiloaction       = "X2(Parachain(2105), PalletInstance(5))"
 	name                = "Crab Network Native Token"
 	symbol              = "CRAB"
+
+[pangolin]
+parachain-id = "2105"
+	[pangolin.soverign]
+	public-key-rococo  = "0x7061726139080000000000000000000000000000000000000000000000000000"
+	public-key-sibling = "0x7369626c39080000000000000000000000000000000000000000000000000000"
+	ss58-rococo        = "5Ec4AhNxga1JYLioRBNxfRnovheDELVbZTRSnKMgvSVPvNcN"
+	[pangolin.asset]
+	decimals            = "18"
+	existential-deposit = "0"
+	multiloaction       = "X2(Parachain(2105), PalletInstance(5))"
+	name                = "Pangolin Network Native Token"
+	symbol              = "PRING"
