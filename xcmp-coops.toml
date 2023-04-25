@@ -120,7 +120,7 @@
 # Verify the Pangolin Parachain call at https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fpangolin-rpc.darwinia.network#/extrinsics/decode
 [rococo]
 	[rococo.rocstar]
-	accept         = ""
+	accept         = "0x21000101000214000400000000070010a5d4e81300000000070010a5d4e800060002286bee183c01d6070000140d010004000100e520"
 	accept-result  = ""
 	batch          = ""
 	batch-result   = ""
