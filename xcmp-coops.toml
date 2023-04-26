@@ -1,5 +1,5 @@
 # Verify the Polkadot call at           https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Frpc.polkadot.io#/extrinsics/decode
-# Verify the Darwinia Parachain call at https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Frpc.darwinia.network#/extrinsics/decode
+# Verify the Darwinia2 call at https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Frpc.darwinia.network#/extrinsics/decode
 [darwinia]
 	[darwinia.astar]
 	accept         = ""
@@ -50,7 +50,7 @@
 	request-result = "on darwinia-1.0"
 
 # Verify the Kusama call at         https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fkusama-rpc.polkadot.io#/extrinsics/decode
-# Verify the Crab Parachain call at https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fcrab-rpc.darwinia.network%2F#/extrinsics/decode
+# Verify the Crab2 call at https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fcrab-rpc.darwinia.network%2F#/extrinsics/decode
 [crab]
 	[crab.bifrost]
 	accept         = ""
@@ -117,9 +117,9 @@
 	request-result = "on darwinia-1.0"
 
 # Verify the Rococo call at             https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Frococo-rpc.polkadot.io#/extrinsics/decode
-# Verify the Pangolin Parachain call at https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fpangolin-rpc.darwinia.network#/extrinsics/decode
-[rococo]
-	[rococo.rocstar]
+# Verify the Pangolin2 call at https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fpangolin-rpc.darwinia.network#/extrinsics/decode
+[pangolin]
+	[pangolin.rocstar]
 	accept         = "0x21000101000214000400000000070010a5d4e81300000000070010a5d4e800060002286bee183c01d6070000140d010004000100e520"
 	accept-result  = "https://pangolin.subscan.io/block/574452"
 	batch          = ""
