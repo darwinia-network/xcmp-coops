@@ -3,7 +3,7 @@
 [darwinia]
 	[darwinia.asset-hub]
 	accept         = "0x210001010002140004000000000700e40b540213000000000700e40b54020006000700f2052a01183c01e8030000140d010004000100f91f"
-	accept-result  = ""
+	accept-result  = "https://darwinia2.subsquare.io/council/motions/13"
 	batch          = ""
 	batch-result   = ""
 	request        = ""
