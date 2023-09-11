@@ -1,4 +1,4 @@
-# Verify the Polkadot call at           https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Frpc.polkadot.io#/extrinsics/decode
+# Verify the Polkadot call at https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Frpc.polkadot.io#/extrinsics/decode
 # Verify the Darwinia2 call at https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Frpc.darwinia.network#/extrinsics/decode
 [darwinia]
 	[darwinia.astar]
@@ -57,7 +57,7 @@
 	request        = "0x0d0001010002140004000000000700e40b540213000000000700e40b540200060002286bee383c00e8030000e803000000900100140d010004000100f91f"
 	request-result = "on darwinia-1.0"
 
-# Verify the Kusama call at         https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fkusama-rpc.polkadot.io#/extrinsics/decode
+# Verify the Kusama call at https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fkusama-rpc.polkadot.io#/extrinsics/decode
 # Verify the Crab2 call at https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fcrab-rpc.darwinia.network%2F#/extrinsics/decode
 [crab]
 	[crab.bifrost]
@@ -124,7 +124,7 @@
 	request        = "0x0d000101000214000400000000070010a5d4e81300000000070010a5d4e80006000700f2052a01383c00d7070000e803000000900100140d010004000100e520"
 	request-result = "on darwinia-1.0"
 
-# Verify the Rococo call at             https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Frococo-rpc.polkadot.io#/extrinsics/decode
+# Verify the Rococo call at https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Frococo-rpc.polkadot.io#/extrinsics/decode
 # Verify the Pangolin2 call at https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fpangolin-rpc.darwinia.network#/extrinsics/decode
 [pangolin]
 	[pangolin.asset-hub]
@@ -133,7 +133,7 @@
 	batch          = ""
 	batch-result   = ""
 	request        = "0x21000101000214000400000000070010a5d4e81300000000070010a5d4e800060002286bee383c00e8030000e803000000900100140d010004000100e520"
-	request-result = ""
+	request-result = "https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fpangolin-rpc.darwinia.network#/explorer/query/0xdfcad2facfd5506aa42be69939f3ff0acc6cd5244017c47caa39a83be4999602"
 
 	[pangolin.rocstar]
 	accept         = "0x21000101000214000400000000070010a5d4e81300000000070010a5d4e800060002286bee183c01d6070000140d010004000100e520"
