@@ -1,6 +1,14 @@
 # Verify the Polkadot call at           https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Frpc.polkadot.io#/extrinsics/decode
 # Verify the Darwinia2 call at https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Frpc.darwinia.network#/extrinsics/decode
 [darwinia]
+	[darwinia.asset-hub]
+	accept         = "0x210001010002140004000000000700e40b540213000000000700e40b54020006000700f2052a01183c01e8030000140d010004000100f91f"
+	accept-result  = ""
+	batch          = ""
+	batch-result   = ""
+	request        = ""
+	request-result = ""
+
 	[darwinia.astar]
 	accept         = "0x210001010002140004000000000700e40b540213000000000700e40b54020006000700f2052a01183c01d6070000140d010004000100f91f"
 	accept-result  = "https://darwinia2.subsquare.io/council/motions/10"
