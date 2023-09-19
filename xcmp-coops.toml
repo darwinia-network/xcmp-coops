@@ -137,11 +137,11 @@ request-result = "on darwinia-1.0"
 [pangolin]
 [pangolin.asset-hub]
 accept         = ""
-accept-result  = ""
+accept-result  = "force set on the Rococo side"
 batch          = ""
 batch-result   = ""
-request        = "0x21000101000214000400000000070010a5d4e81300000000070010a5d4e800060002286bee383c00e8030000e803000000900100140d010004000100e520"
-request-result = "https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fpangolin-rpc.darwinia.network#/explorer/query/0xdfcad2facfd5506aa42be69939f3ff0acc6cd5244017c47caa39a83be4999602"
+request        = ""
+request-result = "force set on the Rococo side"
 
 [pangolin.rocstar]
 accept         = "0x21000101000214000400000000070010a5d4e81300000000070010a5d4e800060002286bee183c01d6070000140d010004000100e520"
