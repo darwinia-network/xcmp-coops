@@ -25,6 +25,14 @@ batch-result   = "on darwinia-1.0"
 request        = ""
 request-result = ""
 
+[darwinia.hydradx]
+accept         = ""
+accept-result  = ""
+batch          = ""
+batch-result   = ""
+request        = "0x210001010002140004000000000700e40b540213000000000700e40b54020006000700f2052a01383c00f2070000e803000000900100140d010004000100f91f"
+request-result = ""
+
 [darwinia.moonbeam]
 accept         = "0x0d0001010002140004000000000700e40b540213000000000700e40b540200060002286bee183c01d4070000140d010004000100f91f"
 accept-result  = "on darwinia-1.0"
