@@ -12,7 +12,7 @@
 7. Once the channels are established, update the results with the Subscan or Polkadot Apps URI(s).
 8. After completing the above steps, your pull request will be merged.
 
-**Formatting Guidelines:**
+**Formatting guidelines:**
 1. Arrange the network list in alphabetical order.
 2. Leave unused fields as an empty string `""`.
 3. Convert your network's name to lowercase, e.g., `"Foo" -> "foo"`.
