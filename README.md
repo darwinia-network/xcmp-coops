@@ -1,20 +1,20 @@
 ## Darwinia/Crab Network XCMP Cooperations
-> Check [`parachain-info.toml`](parachain-info.toml) for more information about the Darwinia parachains.
+> For detailed information about the Darwinia parachains, refer to the [`parachain-info.toml`](parachain-info.toml) file.
 
 ### Cooperation Process
-**Contract our developers or fork this repository and do the following things:**
-1. Edit the [`xcmp-coops.toml`](xcmp-coops.toml)
-2. Find your cooperation target, Darwinia or Crab network
-3. Add an new item follow the existing items format
-4. Fill the accept/batch/request call data
-5. Make a pull request
-6. Once the pull request gets more than one approvals, the on-chain governance will be started
-7. Once the channel(s) was(were) established, update the result(s) with the Subscan or Polkadot Apps URI(s)
-8. Once all the things above are finished, the pull request will be merged
+**To collaborate with our developers or contribute directly, follow these steps:**
+1. Modify the [`xcmp-coops.toml`](xcmp-coops.toml) file.
+2. Identify your target for cooperation, either Darwinia or Crab Network.
+3. Add a new entry following the format of existing items.
+4. Complete the accept/batch/request call data fields.
+5. Submit a pull request.
+6. After your pull request receives at least one approval, on-chain governance will commence.
+7. Once the channels are established, update the results with the Subscan or Polkadot Apps URI(s).
+8. After completing the above steps, your pull request will be merged.
 
-**Some formatting issues:**
-1. Sort the network list by alphabetic order
-2. If the field you don't use, just leave with an empty string `""`
-3. Convert your network's name to lowercase, e.g. `"Foo" -> "foo"`
-4. Convert your network's name style to kebab-case, e.g. `"FooBar", "fooBar", "FOO_BAR", "foo_bar" -> "foo-bar"`
-5. Replace the space in your network name with a dash, e.g. `"foo bar" -> "foo-bar"`
+**Formatting Guidelines:**
+1. Arrange the network list in alphabetical order.
+2. Leave unused fields as an empty string `""`.
+3. Convert your network's name to lowercase, e.g., `"Foo" -> "foo"`.
+4. Change your network's name to kebab-case, e.g., `"FooBar", "fooBar", "FOO_BAR", "foo_bar" -> "foo-bar"`.
+5. Replace spaces in your network name with a dash, e.g., `"foo bar" -> "foo-bar"`.
