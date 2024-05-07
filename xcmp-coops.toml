@@ -26,7 +26,7 @@ request        = ""
 request-result = ""
 
 [darwinia.hydradx]
-accept         = ""
+accept         = "0x210001010002140004000000000700e40b540213000000000700e40b54020006000700f2052a01183c01f2070000140d010004000100f91f"
 accept-result  = ""
 batch          = ""
 batch-result   = ""
