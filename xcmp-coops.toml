@@ -41,16 +41,6 @@ batch-result   = ""
 request        = ""
 request-result = ""
 
-[darwinia.parallel]
-accept         = ""
-accept-result  = ""
-batch          = ""
-batch-result   = "on darwinia-1.0"
-request        = ""
-request-result = ""
-close          = "0x1a0008210001010002140004000000000700e40b540213000000000700e40b54020006000700f2052a01283c02dc070000fe070000140d010004000100f91f210001010002140004000000000700e40b540213000000000700e40b54020006000700f2052a01283c02fe070000dc070000140d010004000100f91f"
-close-result   = ""
-
 [darwinia.pendulum]
 accept         = ""
 accept-result  = ""
