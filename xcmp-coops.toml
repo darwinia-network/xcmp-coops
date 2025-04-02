@@ -90,7 +90,7 @@ accept-result  = ""
 batch          = ""
 batch-result   = ""
 request        = "0x210003010003140004000000000700e40b540213000000000700e40b54020006000300f90295419c183c0aed030000140d0100000100e520"
-request-result = ""
+request-result = "Referenda#33"
 
 [crab.crust]
 accept         = ""
